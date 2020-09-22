@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DeanoLight</string>
+    <string name="textHeader">DeanoHome</string>
+    <string name="textAuthor">by Dan Rykala</string>
+    <string name="textVersion">v 1.0</string>
+</resources>
